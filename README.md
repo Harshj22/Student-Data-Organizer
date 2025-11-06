@@ -16,12 +16,12 @@ Features
 
 Concepts Used
 
-List – to store multiple student dictionaries
-Dictionary – to store student data (id, name, age, grade, etc.)
-Tuple – to store student ID and Date of Birth together
-Set – to store unique subjects
-If-Else statements – for menu and options
-Loops – for iterating through records
+1. List – to store multiple student dictionaries
+2. Dictionary – to store student data (id, name, age, grade, etc.)
+3. Tuple – to store student ID and Date of Birth together
+4. Set – to store unique subjects
+5. If-Else statements – for menu and options
+6. Loops – for iterating through records
 
 Example output
 <img width="1291" height="712" alt="image" src="https://github.com/user-attachments/assets/a5a0fc5a-87e3-465a-a303-6898b17f8b1e" />
@@ -29,9 +29,9 @@ Example output
 
 Learning Outcome
 
-Strengthened understanding of data structures in Python
-Improved logical thinking and code structuring
-Learned how to create an interactive console-based project
+Strengthened understanding of data structures in Python.
+Improved logical thinking and code structuring.
+Learned how to create an interactive console-based project.
 
 Author
 
